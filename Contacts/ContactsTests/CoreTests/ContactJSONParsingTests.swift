@@ -35,7 +35,7 @@ class ContactJSONParsingTests: XCTestCase {
     }
 
     func testIfContactURLisParsedCorrectly() {
-        let expectedURL = "http://gojek-contacts-app.herokuapp.com/contacts/2202.json"
+        let expectedURL = "http://contacts-app.herokuapp.com/contacts/2202.json"
         XCTAssertEqual(contact.url, expectedURL)
     }
     

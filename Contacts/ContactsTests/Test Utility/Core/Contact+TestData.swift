@@ -10,7 +10,7 @@ extension Contact {
         phoneNumber: String? = nil,
         profilePictureEndPoint: String? = nil,
         favourite: Bool = false,
-        url: String = "https://gojek-contacts-app.herokuapp.com/contacts/1.json") -> Contact {
+        url: String = "https://contacts-app.herokuapp.com/contacts/1.json") -> Contact {
         return Contact(id: id,
                        firstName: firstName,
                        lastName: lastName,
