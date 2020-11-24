@@ -19,6 +19,7 @@ target 'Contacts' do
   target 'ContactsUITests' do
     inherit! :search_paths
     # Pods for testing
+    pod 'RxCocoa', '4.2.0'
   end
 
 end
