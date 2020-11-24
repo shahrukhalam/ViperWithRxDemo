@@ -65,4 +65,4 @@ Most important component for any iOS App:
 It's kept as simple and dumb as possible and delegate most of the logic to the Presenter, which coordinates between the various necessary components.
 
 
-##### *For any queries reach Shahrukh Alam at alam.shahrukh786@gmail.com or on 7975105792*
+##### *For any queries reach Shahrukh Alam at alam.shahrukh786@gmail.com or on 7349127046*
