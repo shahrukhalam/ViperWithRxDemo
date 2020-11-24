@@ -5,7 +5,7 @@ To install CocoaPods dependencies, go to project folder terminal and run followi
 $ pod install
 ```
 
-SnapshotTests should be run on iPhone 6 (10.3.1) as it’s recorded considering it’s width and height.
+SnapshotTests should be run on iPhone 12 Pro Max (14.2) as it’s recorded considering it’s width and height.
 
 # App:
 3 Targets: Contacts, ContactsTests and ContactsUITests.
