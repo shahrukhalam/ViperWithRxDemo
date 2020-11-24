@@ -64,5 +64,8 @@ Most important component for any iOS App:
 
 It's kept as simple and dumb as possible and delegate most of the logic to the Presenter, which coordinates between the various necessary components.
 
+#### Note:
+- The API end point might not be working now. So, some UITests might fail.
+- Please use your own end point serving something similar to `Contact` Model
 
 ##### *For any queries reach Shahrukh Alam at alam.shahrukh786@gmail.com or on 7349127046*
